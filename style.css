@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Gantari', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-section {
+    width: 100%;
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.head {
+    text-align: center;
+    padding: 100px 0px;
+}
+
+h1 {
+    font-size: 45px;
+    color: white;
+    margin: 0;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 25px;
+    background-color: #FF5959;
+    color: white;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
