@@ -216,3 +216,18 @@ button {
 form {
     margin: 0;
 }
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    color: white;
+}
+
+.humble {
+    color: #FF5959;
+    font-size: 25px;
+}
