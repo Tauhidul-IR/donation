@@ -148,3 +148,31 @@ h5 {
 #education {
     background-color: #FFF4D6;
 }
+
+.self-make {
+    width: 80%;
+    margin: auto;
+}
+
+.self-make h4 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.service {
+    width: 26%;
+    margin: auto;
+}
+
+.news {
+    width: 50%;
+    margin: 0;
+}
+
+nav {}
+
+ul {}
+
+li {
+    color: #6f7074;
+}
