@@ -15,6 +15,7 @@ body {
 .container {
     width: 80%;
     margin: auto;
+    display: flex;
 }
 
 .head {
@@ -36,10 +37,72 @@ p {
 
 a {
     text-decoration: none;
-    padding: 10px 25px;
+    padding: 20px 25px;
     background-color: #FF5959;
     color: white;
     border-radius: 10px;
     text-transform: uppercase;
     font-weight: bold;
 }
+
+.donate-section {
+    width: 60%;
+    margin: auto;
+}
+
+.donate {
+    text-align: center;
+    margin: 40px 0px;
+}
+
+#color-money {
+    background-color: #FDEFF0;
+    border: 2px solid red;
+}
+
+.money {
+    width: 15%;
+    background-color: #f1efed;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    padding: 5px 10px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.donate-section p {
+    margin: 0;
+    color: #6F706F;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.amount {
+    text-align: center;
+}
+
+.amount span {
+    width: 100%;
+    height: 3px;
+    background-color: #B3B3B3;
+    display: block;
+}
+
+h5 {
+    color: #B3B3B3;
+    font-size: 20px;
+    margin: 0;
+}
+
+.button {
+    text-align: center;
+    margin: 50px 0px;
+}
+
+.button a {}
